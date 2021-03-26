@@ -1,0 +1,6 @@
++---------------------------------------------------------------------------------------------------+
+                                     Estafeta – Gestão de Frota
++---------------------------------------------------------------------------------------------------+
+Entrega com o identificador 118, ponto de recolha em Centro de Recolha e ponto de entrega em Morada do Cliente. Descrição da Mercadoria Material Informático e volume da mercadoria 100000 
+Entrega com o identificador 242, ponto de recolha em Fábrica e ponto de entrega em Morada do Cliente. Descrição da Mercadoria Mobiliário e volume da mercadoria 130000 
+Entrega com o identificador 525, ponto de recolha em Loja e ponto de entrega em Morada do Cliente. Descrição da Mercadoria Livros e volume da mercadoria 30000 
